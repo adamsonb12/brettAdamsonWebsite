@@ -5,11 +5,16 @@
   border-radius: 50%;
 }
 
-.modal-img {
-  max-width: 70%;
+.modal-pnnl {
+  max-width: 60%;
 }
 
-.portfolio {
+.modal-byu {
+  max-width: 40%;
+}
+
+.modal-mtc {
+  max-width: 90%;
 }
 
 hr.rebel-light,
