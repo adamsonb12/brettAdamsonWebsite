@@ -4,3 +4,44 @@
   max-width: 33%;
   border-radius: 50%;
 }
+
+.modal-img {
+  max-width: 70%;
+}
+
+.portfolio {
+}
+
+hr.rebel-light,
+hr.rebel-primary {
+  max-width: 250px;
+  margin: 25px auto 30px;
+  padding: 0;
+  text-align: center;
+  border: none;
+  border-top: solid 5px; }
+
+hr.rebel-light:after,
+hr.rebel-primary:after {
+  font-family: FontAwesome;
+  font-size: 2em;
+  position: relative;
+  top: -.8em;
+  display: inline-block;
+  padding: 0 0.25em; }
+
+hr.rebel-light {
+  border-color: white; }
+
+hr.rebel-light:after {
+  content: '\f1d0';
+  color: white;
+  background-color: #18BC9C; }
+
+hr.rebel-primary {
+  border-color: #2C3E50; }
+
+hr.rebel-primary:after {
+  content: '\f1d1';
+  color: #2C3E50;
+  background-color: white; }
