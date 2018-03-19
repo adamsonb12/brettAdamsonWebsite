@@ -57,3 +57,12 @@ hr.rebel-primary:after {
   content: '\f1d1';
   color: #2C3E50;
   background-color: white; }
+
+.summary_of_technologies {
+  padding-top: 15px;
+}
+
+.personal-porfolio {
+  padding-top: 1.5em;
+  align-content: center;
+}
